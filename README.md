@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello^-^ friends! Have a nice day~
 
-<!--
-**nopespace/nopespace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🍻 Undergraduate at [UofT](https://www.utoronto.ca), Computer Science Specialist + Math Major
+- ⚡ C++ / C / Python / Java / C#.
+- 🏃 Puzzle🧩 / Reading📖 / Writing✏️ / <del>sleeping🤔</del> / Movies🎬 / Arts🎨
+- 😝 My favorite books: *The Brave New World*, *The Moon and Sixpence*
+- 🌱 I’m currently learning to be a human
+- 📫 How to reach me:
+    - First, you need to have a spacecraft.
+    - Second, go to the Mars~
+    - Third, you reach me! Congrats.
+- ✍️ [My Bloggy](https://nopespace.github.io)
