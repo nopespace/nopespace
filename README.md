@@ -9,4 +9,3 @@
     - First, you need to have a spacecraft.
     - Second, go to the Mars~
     - Third, you reach me! Congrats.
-- ✍️ [My Bloggy](https://nopespace.github.io)
