@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning to be a human
 - 📫 How to reach me:
     - First, you need to have a spacecraft.
-    - Second, go to the Mars~
+    - Second, go to Mars~
     - Third, you reach me! Congrats.
 
 Thanks for visiting my profile, please feel free to reach me!!!!! I am really addicted in observing human recently!!!!! I'll be really happy to talk to you!
