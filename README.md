@@ -1,7 +1,7 @@
 ### Hello^-^ human! What's up~
 
 - 🍻 Undergraduate at [UofT](https://www.utoronto.ca), Computer Science Specialist + Math Major
-- ⚡ C++ / C / Python / Java / Javascript.
+- ⚡ C++ / C / Python / Java / Javascript / C# / HTML / Django / React.js
 - 🏃 Puzzle🧩 / Algorithm😝 / Reading📖 / Writing✏️ / <del>sleeping🤔</del> / Movies🎬 / Arts🎨
 - 😝 My favorite books: *The Brave New World*, *The Moon and Sixpence*
 - 🌱 I’m currently learning to be a human
