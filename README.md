@@ -3,7 +3,7 @@
 - 🍻 Undergraduate at [UofT](https://www.utoronto.ca), Computer Science Specialist + Math Major
 - ⚡ C++ / C / Python / Java / Javascript / C# / HTML / Django / React.js
 - 🏃 Puzzle🧩 / Algorithm😝 / Reading📖 / Writing✏️ / <del>sleeping🤔</del> / Movies🎬 / Arts🎨
-- 😝 My favorite books: *[Brave New World](https://en.wikipedia.org/wiki/Brave_New_World)*, *The Moon and Sixpence*, Probably everything written by Borges~ OwO
+- 😝 My favorite books: *[Brave New World](https://en.wikipedia.org/wiki/Brave_New_World)*, *[The Moon and Sixpence](https://en.wikipedia.org/wiki/The_Moon_and_Sixpence)*, Probably everything written by [Borges](https://en.wikipedia.org/wiki/Jorge_Luis_Borges)~ OwO
 - 🌱 I’m currently learning to be a human
 - 📫 How to reach me:
     - First, you need to have a spacecraft.
