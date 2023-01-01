@@ -12,3 +12,5 @@
     - Third, you reach me! Congrats.
 
 Thanks for visiting my profile, please feel free to reach me!!!!! I am really addicted in observing human recently!!!!!! I'll be really happy to talk to you!
+
+Discord: nopespace#4009
