@@ -14,3 +14,4 @@
 Thanks for visiting my profile, please feel free to reach me!!!!! I am really addicted in observing human recently!!!!!! I'll be really happy to talk to you!
 
 Discord: nopespace#4009
+我真的好喜欢算法（摊着
