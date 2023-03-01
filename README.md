@@ -17,4 +17,4 @@ Discord: nopespace#4009
 
 <details>
 我真的好喜欢算法（摊着
-<\details>
+</details>
