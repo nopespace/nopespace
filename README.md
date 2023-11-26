@@ -7,7 +7,7 @@
 - 🎬 My favorite movie: *[Dead Poets Society](https://en.wikipedia.org/wiki/Dead_Poets_Society)*
 - 🌱 I’m currently learning to be a human
 - 📫 How to reach me:
-    - First, you need to have a spacecraft.
+    - First, you need to have a spacecraft. Link to buy: [Click](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
     - Second, go to Mars~
     - Third, you reach me! Congrats.
 
