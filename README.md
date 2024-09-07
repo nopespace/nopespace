@@ -18,11 +18,10 @@ Discord: nopespace#4009
 <details>
 you are deceived 😈 :3 :D
 
-
+<!-- 
 Anyways just some pics I took and I like :) hope you enjoy them.
 
-
-<!-- ![white](https://github.com/nopespace/nopespace/assets/55406346/e17ca019-19e7-4dfd-a36b-f8a704ea1034)
+![white](https://github.com/nopespace/nopespace/assets/55406346/e17ca019-19e7-4dfd-a36b-f8a704ea1034)
 ![lake](https://github.com/nopespace/nopespace/assets/55406346/260b8cb0-ea3b-4dd0-a107-76e9aa89ba53)
 ![old](https://github.com/nopespace/nopespace/assets/55406346/e9dc3600-3c7b-42a3-b9fa-63880931be84)
 ![green](https://github.com/nopespace/nopespace/assets/55406346/a96f2236-a8fd-44d5-940d-56d7c210c1c4)
